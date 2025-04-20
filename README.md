@@ -2,13 +2,13 @@
 
 Your go-to source for clever, affordable tech - from hidden gems to surprisingly useful gadgets.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/circuitecho/budgettechpicks-theme?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/circuitecho/budget-casper?style=social)
 [![Powered By](https://img.shields.io/badge/powered%20by-circuitecho-9cf?logo=github)](https://github.com/circuitecho)
 [![Built for Ghost](https://img.shields.io/badge/built%20for-Ghost-FF4785?logo=ghost&logoColor=white)](https://ghost.org)
 [![View Theme](https://img.shields.io/badge/theme-Casper-orange)](https://github.com/TryGhost/Casper)
 [![Live Site](https://img.shields.io/badge/live-site-blue)](https://budgettechpicks.com)
-![GitHub top language](https://img.shields.io/github/languages/top/circuitecho/budgettechpicks-theme)
-![GitHub code size](https://img.shields.io/github/languages/code-size/circuitecho/budgettechpicks-theme)
+![GitHub top language](https://img.shields.io/github/languages/top/circuitecho/budget-casper)
+![GitHub code size](https://img.shields.io/github/languages/code-size/circuitecho/budget-casper)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 This customized version of the **Casper** theme powers the [BudgetTechPicks.com](https://budgettechpicks.com) blog:
