@@ -1,3 +1,24 @@
+# Budget Tech Picks ✨💸
+
+Your go-to source for clever, affordable tech - from hidden gems to surprisingly useful gadgets.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/circuitecho/budgettechpicks-theme?style=social)
+[![Powered By](https://img.shields.io/badge/powered%20by-circuitecho-9cf?logo=github)](https://github.com/circuitecho)
+[![Built for Ghost](https://img.shields.io/badge/built%20for-Ghost-FF4785?logo=ghost&logoColor=white)](https://ghost.org)
+[![View Theme](https://img.shields.io/badge/theme-Casper-orange)](https://github.com/TryGhost/Casper)
+[![Live Site](https://img.shields.io/badge/live-site-blue)](https://budgettechpicks.com)
+![GitHub top language](https://img.shields.io/github/languages/top/circuitecho/budgettechpicks-theme)
+![GitHub code size](https://img.shields.io/github/languages/code-size/circuitecho/budgettechpicks-theme)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+This customized version of the **Casper** theme powers the [BudgetTechPicks.com](https://budgettechpicks.com) blog:
+
+- 💻 Focused on budget-friendly tech picks and hidden gems
+- ✍️ Clean, readable layout for long-form blog content
+- 🪄 Custom tweaks for easier browsing and more engaging visuals
+
+---
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
